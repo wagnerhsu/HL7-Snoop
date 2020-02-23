@@ -10,3 +10,4 @@ TestResults
 
 # suo files
 *.suo
+packages/
